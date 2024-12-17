@@ -44,4 +44,4 @@ This will process the forensic image `card.raw` and recover all JPEG files found
 - The program will report the total number of JPEG files recovered.
 - The program will handle errors such as file corruption or incomplete reads.
 
-Happy recovering!
+Now go forth and recover your JPEGs!
